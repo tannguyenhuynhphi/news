@@ -1,4 +1,2 @@
 init
 123
-abc
-def 
