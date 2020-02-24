@@ -1,11 +1,2 @@
 init
 123
-abc
-def
-jdk
-abc 
-ejd
-123 456
-dfsfd
-sdfsdf
-asdsa
