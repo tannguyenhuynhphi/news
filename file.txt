@@ -1,7 +1,13 @@
 init
 123
 abc
+<<<<<<< HEAD
 jdk
 asddsa
 asds
 asdghnnmbvbvb
+=======
+jdk ghjkghj
+>>>>>>> 003
+sgdfdgfd
+ffhgfhgfh
