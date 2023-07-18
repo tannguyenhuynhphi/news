@@ -5,12 +5,4 @@
 5 change 
 cahnge 123
 chánghv iissu
-<<<<<<< HEAD
-vommit 
-<<<<<<< HEAD
-theem 
-=======
-=======
-commit
->>>>>>> parent of 6a66a70 (Revert "coimmit moiws")
->>>>>>> parent of 2c88b8d (comit)
+
